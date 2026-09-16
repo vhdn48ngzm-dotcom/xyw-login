@@ -1,0 +1,5 @@
+[2026-09-17 01:00:39] watchdog-start pid=20980 interval=120s watchdog=1
+[2026-09-17 01:04:02] locked: pause checks
+[2026-09-17 01:04:22] unlocked: immediate check
+[2026-09-17 01:10:27] watchdog: offline, re-login
+[2026-09-17 01:10:31] watchdog: login-success
